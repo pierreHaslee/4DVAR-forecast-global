@@ -7,8 +7,6 @@ report on experiments of 4DVarNet on global scale
 
 - **Global (Masking)**: 4DVarNet-forecast is trained and used to forecast on the whole globe. Continents are masked in the prediction and training.
 
-- **Global (Masking + skip nans)**: 4DVarNet-forecast is trained and used to forecast on the whole globe. Continents are masked in the prediction and training.
-
 - **Gulfstream**: 4DVarNet-forecast is trained to forecast on the Gulfstream patch only.
 
 ## Results
