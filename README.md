@@ -3,9 +3,9 @@ report on experiments of 4DVarNet on global scale
 
 ## Experiments:
 
-- **Global (Masking)**: 4DVarNet-forecast is trained and used to forecast on the whole globe. Continents are masked in the prediction and training.
-
 - **Global (No Mask)**: 4DVarNet-forecast is trained and used to forecast on the whole globe. Continents are initialized to `0.0f`.
+
+- **Global (Masking)**: 4DVarNet-forecast is trained and used to forecast on the whole globe. Continents are masked in the prediction and training.
 
 - **Gulfstream**: 4DVarNet-forecast is trained to forecast on the Gulfstream patch only.
 
